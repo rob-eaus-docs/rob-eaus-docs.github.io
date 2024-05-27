@@ -2,12 +2,6 @@ title: ROB498/599 Experimental UAS
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
- # Build settings
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: pmarsceill/just-the-docs
-
 url: https://rob-eaus-docs.github.io
 
 aux_links:

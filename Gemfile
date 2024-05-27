@@ -7,8 +7,4 @@ gem "just-the-docs", "0.8.2" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
 gem 'magnific-popup-rails', '~> 1.1'
-
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-    gem "jekyll-remote-theme" 
-end
+ 
